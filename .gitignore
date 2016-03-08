@@ -1,0 +1,7 @@
+node_modules/
+typings/
+app/*.js.map
+app/*.js
+app/components/*.js
+app/components/*.js.map
+app/img/
